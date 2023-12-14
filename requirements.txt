@@ -1,0 +1,4 @@
+google-auth==2.25.1
+google-cloud-bigquery==3.13.0
+db-dtypes==1.1.1
+httpx-oauth==0.13.0
